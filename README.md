@@ -1,2 +1,2 @@
-# google-homepage-T
-Google Homepage Recreated using HTML &amp; CSS
+# google-homepage
+Odin Project 1st Project
